@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/niksmac/ethereum-scripts#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^1.5.4"
   }
 }
