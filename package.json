@@ -2,7 +2,7 @@
   "name": "ethereum-scripts",
   "version": "1.0.0",
   "description": "Common useful JavaScript snippets for geth",
-  "main": "block-details.js",
+  "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
