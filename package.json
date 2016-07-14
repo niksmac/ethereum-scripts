@@ -1,0 +1,22 @@
+{
+  "name": "ethereum-scripts",
+  "version": "1.0.0",
+  "description": "Common useful JavaScript snippets for geth",
+  "main": "block-details.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niksmac/ethereum-scripts.git"
+  },
+  "author": "https://github.com/niksmac",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/niksmac/ethereum-scripts/issues"
+  },
+  "homepage": "https://github.com/niksmac/ethereum-scripts#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
