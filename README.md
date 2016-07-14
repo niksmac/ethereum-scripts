@@ -5,3 +5,7 @@ This is a collection of common useful scripts that are handy when you do any kin
 ## Usage
 Include the `build/geth.min.js` in your html `HEAD` and start using these fucntions in browser
 console and/or custom script.
+
+## Documentation
+Detailed [documentation is
+here](https://lightrains.com/blogs/useful-ethereum-geth-javascript-snippets).
